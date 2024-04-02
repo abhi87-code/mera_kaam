@@ -28,6 +28,14 @@ const Report = () => {
             <TableCell align="center">Slept Well?</TableCell>
             <TableCell align="right">Screen Time (hours)</TableCell>
           </TableRow>
+          </TableHead>
+          <TableHead>
+          <TableRow>
+            <TableCell>Participant Name</TableCell>
+            <TableCell align="right">Attention Span (min)</TableCell>
+            <TableCell align="center">Slept Well?</TableCell>
+            <TableCell align="right">Screen Time (hours)</TableCell>
+          </TableRow>
         </TableHead>
         <TableBody>
           {participants.map((participant) => (
