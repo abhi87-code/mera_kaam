@@ -7,7 +7,6 @@ import { ChartComponent, ILoadedEventArgs, ColumnSeries, Category, DataLabel, To
 import { Browser } from '@syncfusion/ej2-base';
 
 export let data: Object[] = [
-    { x: 'Prachi', y: 26, tooltipMappingName: 'Prachi' },
     { x: 'Bhargav', y: 8, tooltipMappingName: 'Bhargav' },
     { x: 'Sahil', y: 7, tooltipMappingName: 'Sahil' },
 ];
