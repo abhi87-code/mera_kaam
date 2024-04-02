@@ -9,7 +9,6 @@ import { Browser } from '@syncfusion/ej2-base';
 export let data: Object[] = [
     { x: 'Prachi', y: 26, tooltipMappingName: 'Prachi' },
     { x: 'Bhargav', y: 8, tooltipMappingName: 'Bhargav' },
-    { x: 'Yashasvi', y: 17, tooltipMappingName: 'Yashasvi' },
     { x: 'Sahil', y: 7, tooltipMappingName: 'Sahil' },
 ];
 
