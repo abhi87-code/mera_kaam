@@ -13,6 +13,12 @@ import React, { useState } from 'react';
             ABOUT
           </li>
           <li>
+            SIGN UP``
+          </li>
+          <li>
+            LOGIN
+          </li>
+          <li>
             CONTACT US
           </li>
         </ul>
